@@ -4,12 +4,12 @@ import java.util.List;
 public class Undo_Singleton {
     //Decalracio
     private static Undo_Singleton instancia;
-    private List<String> comandes = new ArrayList<String>();
+    private List<String> comandes; // = new ArrayList<String>(); se podria poner aqui, pero por convencion solo se declaran atributos tipo final, SE PASA A CONSTRUCTOR
 
     private Undo_Singleton() {
-        //comandes = new ArrayList<>(); //es podria instanciar aqui tmb en comptes de com atribut
+        comandes = new ArrayList<>(); //es podria instanciar aqui tmb en comptes de com atribut
 
-        //constructor private i buit, per evitar instancia amb "new"
+        //constructor private i "buit"(NO SEMPRE), per evitar instancia amb "new"
     }
 
 
