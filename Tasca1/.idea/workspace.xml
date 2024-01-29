@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a66f351-076e-4dd2-9792-27851ca98068" name="Changes" comment="falta n3e1" />
+    <list default="true" id="2a66f351-076e-4dd2-9792-27851ca98068" name="Changes" comment="falta ARREGLAR y quitar logica del main, hacer funciones">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/AccelerarCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/ArrencarCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Avio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Cotxe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/FrenarCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Parking_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Vaixell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2bRN0BZBm9WLKP4ijLABb7I0Tvs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,8 +46,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main_App.executor": "Run",
+    "Application.Parking_Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
@@ -44,7 +60,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Parking_Main">
     <configuration name="Main_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_App" />
       <module name="AbstractFactory" />
@@ -52,8 +68,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Parking_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parking_Main" />
+      <module name="Command" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Parking_Main" />
         <item itemvalue="Application.Main_App" />
       </list>
     </recent_temporary>
@@ -99,12 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706185697770</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="falta ARREGLAR y quitar logica del main, hacer funciones">
+      <option name="closed" value="true" />
+      <created>1706519649413</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706519649413</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="n2e1 fet, falta corregir" />
     <MESSAGE value="falta n3e1" />
-    <option name="LAST_COMMIT_MESSAGE" value="falta n3e1" />
+    <MESSAGE value="falta ARREGLAR y quitar logica del main, hacer funciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="falta ARREGLAR y quitar logica del main, hacer funciones" />
   </component>
 </project>
