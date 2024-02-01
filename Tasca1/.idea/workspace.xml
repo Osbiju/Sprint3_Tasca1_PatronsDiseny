@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a66f351-076e-4dd2-9792-27851ca98068" name="Changes" comment="falta ARREGLAR y quitar logica del main, hacer funciones">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/AccelerarCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/ArrencarCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Avio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Bicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Cotxe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/FrenarCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Parking_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Vaixell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3e1/src/main/java/Vehicle.java" afterDir="false" />
+    <list default="true" id="2a66f351-076e-4dd2-9792-27851ca98068" name="Changes" comment="n3e1 acabat, ready per correccio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,23 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main_App.executor": "Run",
-    "Application.Parking_Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/formacio/Documents/Osbiju/Sprint3/Tasca1",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main_App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parking_Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/formacio/Documents/Osbiju/Sprint3/Tasca1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Parking_Main">
     <configuration name="Main_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_App" />
@@ -131,13 +119,22 @@
       <option name="project" value="LOCAL" />
       <updated>1706519649413</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="n3e1 acabat, ready per correccio">
+      <option name="closed" value="true" />
+      <created>1706529827066</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706529827067</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="n2e1 fet, falta corregir" />
     <MESSAGE value="falta n3e1" />
     <MESSAGE value="falta ARREGLAR y quitar logica del main, hacer funciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="falta ARREGLAR y quitar logica del main, hacer funciones" />
+    <MESSAGE value="n3e1 acabat, ready per correccio" />
+    <option name="LAST_COMMIT_MESSAGE" value="n3e1 acabat, ready per correccio" />
   </component>
 </project>
